@@ -4,6 +4,7 @@ The IPL Auction Performance Dashboard provides comprehensive insights into playe
 <img width="743" height="405" alt="Screenshot 2026-10-23 201322" src="https://github.com/user-attachments/assets/087c8c7e-723a-46b3-8937-0e73c14f1f02" />
 
 📊 Key Features & Analysis
+
 Purse Utilization & Budget Distribution: Track total funds spent versus remaining purse across all IPL franchises.
 
 Role-Based Investment Breakdown: Analyze expenditures across Batsmen, Bowlers, All-rounders, and Wicketkeepers.
